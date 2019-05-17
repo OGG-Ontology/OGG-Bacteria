@@ -4,10 +4,12 @@ http://purl.obolibrary.org/obo/ogg/RO_import.owl
 [Source ontology]
 RO
 
-[Low level source term URIs]BI)
-http://purl.obolibrary.org/obo/BFO_0000051 #instance: has part
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/RO_0002577 #system
 
 [Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/RO_0002577 #system
+subClassOf http://purl.obolibrary.org/obo/BFO_0000040 #material entity
 
 [Source term retrieval setting]
 includeAllIntermediates 
