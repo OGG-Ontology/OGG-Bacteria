@@ -1,5 +1,4 @@
-# OGG-Bacteria
-Ontology of bacterial genes and genomes
+# OGG-Bac
 
 OGG-Bac (Ontology of Bacterial Genes and Genomes) is a bacterial branch of OGG with the aim to ontologically represent and annotate bacterial genes based on the orthologous gene hierarchy at different taxonomical levels. 
 
